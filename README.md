@@ -16,3 +16,8 @@ https://tecnoloxia.org/mclon/
 Proyecto de donde ha salido "Drakkars", el siguelíneas que ha quedado segundo en el campeonato de la OSHWDem de 2018:
 https://github.com/hmightypirate/AllMyCircuits
 https://gitlab.com/punkto/line_follower_3d_designs
+
+# Impresión 3D
+## Marlin para la Colido X3045 Duo
+Software de MArlin con los cambios necesarios para usarlo en la Colido del local de la asociación. Todavía es un work in progress.
+https://github.com/punkto/marlin_colido_test
