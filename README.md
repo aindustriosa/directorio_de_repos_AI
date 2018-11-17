@@ -9,6 +9,9 @@ Este repositorio será un eterno "work in progress", si ves que falta algún pro
 https://github.com/aindustriosa/tendas_para_makers_por_Vigo
 
 # Repositorios/proyectos relacionados con robótica
+## mClon
+mClon é un robot educativo de baixo custo que imita ao mBot e que se pode programar co software de mBlock coma se se tratase dun mBot. Está baseado en Arduino, así que tamén se pode programar co IDE de Arduino. Polo tanto, é un robot suficientemente versátil como para poder adaptalo a múltiples niveis educativos, e está especialmente indicado para traballar en Educación Secundaria Obrigatoria e Bacharelato.
+https://tecnoloxia.org/mclon/
 ## Siguelíneas "mightyBug-a"
 Proyecto de donde ha salido "Drakkars", el siguelíneas que ha quedado segundo en el campeonato de la OSHWDem de 2018:
 https://github.com/hmightypirate/AllMyCircuits
