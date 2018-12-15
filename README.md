@@ -22,5 +22,9 @@ https://gitlab.com/punkto/line_follower_3d_designs
 
 # Impresión 3D
 ## Marlin para la Colido X3045 Duo
-Software de MArlin con los cambios necesarios para usarlo en la Colido del local de la asociación. Todavía es un work in progress.
+Software de MAalin con los cambios necesarios para usarlo en la Colido del local de la asociación. Todavía es un work in progress.
 https://github.com/punkto/marlin_colido_test
+
+# Otros proyectos
+## Retrodiosa: Una recreativa para el local
+https://github.com/aindustriosa/retrodiosa_docs
